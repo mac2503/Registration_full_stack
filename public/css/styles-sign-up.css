@@ -1,0 +1,65 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  /*text-anchor: middle;*/
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 25px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  /*  box-sizing: border-box;*/
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type='email'] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[id='inputPassword'] {
+  margin-bottom: -1px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+#confirmPassword {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+body {
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px 20px;
+  background-image: url('https://www.transparenttextures.com/patterns/crissxcross.png');
+}
+.newPage {
+  text-decoration: none;
+  color: white;
+}
+.newPage:hover {
+  color: white;
+  text-decoration: none;
+}

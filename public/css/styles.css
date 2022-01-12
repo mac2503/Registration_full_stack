@@ -1,0 +1,26 @@
+.heading {
+  text-align: center;
+  color: turquoise;
+  margin: 120px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 150px;
+}
+body {
+  background-color: lightcyan;
+  padding: 20px;
+  background-image: url('https://www.transparenttextures.com/patterns/crissxcross.png');
+}
+.btn {
+  display: inline-block;
+  padding: 20px;
+  background-color: turquoise;
+  margin: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+}
+.top {
+  text-align: center;
+}
